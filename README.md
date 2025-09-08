@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-09-05 at 12 41 10_7c8fbfee](https://github.com/user-attachments/assets/0f681156-6249-451f-bc9a-a820b6e20159)# Project
 ## 1.Prison Management System (PMS).
 ## 2.Department of Education (DepEd) Inventory Management System.
 ## 3.Food Hunt Management System.
