@@ -10,6 +10,8 @@
 ## 9.Agriculture E-Commerce System.
 ## 10.Car Rental Management System.
 
+--------------------------------------------------------------------------------------------
+
 
 ## 1.Prison Management System (PMS).
 ![WhatsApp Image 2025-09-05 at 12 43 50_42af3cd3](https://github.com/user-attachments/assets/55e2f76b-8b17-463a-8eed-cc7122c2db62)
@@ -114,17 +116,6 @@ The system also manages **repair, transfer, and condemnation requests**, empower
 - Secure role-based access control.  
 
 ---
-
-## 3. 🛠️ Tools, IDEs & Technologies Used  
-
-- **IDE / Code Editor**: Visual Studio Code  
-- **Server Environment**: XAMPP (Apache + MySQL)  
-- **Backend**: PHP  
-- **Database**: MySQL  
-- **Frontend**: HTML, CSS, JavaScript  
-
----
-
 ## 6. ⚡ Advantages  
 
 ✔️ Automated tracking of all school assets  
@@ -140,6 +131,7 @@ The system also manages **repair, transfer, and condemnation requests**, empower
 ***
 https://www.getyourprojectdone.in/projects/Department-of-Education-(DepEd)-Inventory-Management-System
 ***
+------
 ## 3.Food Hunt Management System.
 ![WhatsApp Image 2025-09-05 at 12 41 42_1b667fa3](https://github.com/user-attachments/assets/c0a7e776-4787-49ac-9b73-0b55a7daacdd)
 The **Food Hunt Management System** is a web-based application designed to simplify and digitalize the process of **food ordering and management**. It connects **Customers, Vendors, and Administrators** in one platform.  
@@ -149,15 +141,6 @@ The **Food Hunt Management System** is a web-based application designed to simpl
 - **Administrators** manage vendors, customers, orders, and transactions while ensuring smooth operation.  
 
 This project is built using **PHP, MySQL, HTML, CSS, and JavaScript** with **phpMyAdmin** for database management.  
-
----
-
-## ⚙️ Tools & Technologies Used
-- **Backend:** PHP 7.1.26  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Database:** MySQL (phpMyAdmin)  
-- **Server Environment:** XAMPP / WAMP  
-- **IDE/Editor:** Visual Studio Code  
 
 ---
 
@@ -196,6 +179,7 @@ This project is built using **PHP, MySQL, HTML, CSS, and JavaScript** with **php
 ***
 https://www.getyourprojectdone.in/projects/Food-Hunt-Management-System
 ***
+----
 ## 4.ONLINE APPLICATION SYSTEM FOR ADMISSION FORM.
 ![WhatsApp Image 2025-09-05 at 12 42 39_683cbc28](https://github.com/user-attachments/assets/417baf11-911a-4020-a3a0-df4a373be2cb)
 The **Online Application System for Admission (OAS)** is a **PHP and MySQL based web platform** that automates the **college/university admission process**.  
@@ -230,6 +214,7 @@ The system is modular, with **Student** and **Admin** panels, built on a **3-tie
 ***
 https://www.getyourprojectdone.in/projects/ONLINE-APPLICATION-SYSTEM-FOR-ADMISSION-FORM
 ***
+----
 ## 5.Real Estate Management System.
 ![WhatsApp Image 2025-09-05 at 12 41 29_f891f369](https://github.com/user-attachments/assets/630817a0-db3e-44fb-b452-1cc9fe96cd74)
 The **Real Estate Management System (REMS)** is a comprehensive web-based platform built using **PHP, MySQL, HTML, CSS, and JavaScript**.  
@@ -264,6 +249,7 @@ The system allows **administrators, builders, and customers** to manage their re
 ***
 https://www.getyourprojectdone.in/projects/Real-Estate-Management-System
 ***
+-----
 ## 6.Car Park Management System.
 <img width="1894" height="913" alt="Screenshot 2025-08-28 132933" src="https://github.com/user-attachments/assets/51aa793f-cf64-4bf4-8c48-99579716b12b" />
 
@@ -296,6 +282,7 @@ It simplifies parking slot reservations, tracks users, and provides a digital re
 ***
 https://www.getyourprojectdone.in/projects/Car-Park-Management-System
 ***
+----
 ## 7.Project Management System (PMS).
 ![WhatsApp Image 2025-09-05 at 12 44 08_2aeadde7](https://github.com/user-attachments/assets/79dfcf63-9786-46d6-8bd7-2dc45df2aac7)
 The **Project Management System (PMS)** is a comprehensive **web-based application** developed to streamline the management of student projects, faculty allocations, and communications within educational institutions.  
@@ -328,6 +315,7 @@ The PMS solves these issues by providing a **centralized digital platform** that
 ***
 https://www.getyourprojectdone.in/projects/Project-Management-System-(PMS)
 ***
+---
 ## 8.Course and Faculty Scheduling System.
 <img width="1901" height="920" alt="Screenshot 2025-08-28 151524" src="https://github.com/user-attachments/assets/1c3852de-b9cb-4b87-b3e5-82bc9f1cac71" />
 The **Course & Faculty Insertion Management System** is a database-driven project designed to manage course offerings, faculty details, classrooms, subjects, and schedules within an educational institution. It simplifies course and faculty allocation, ensuring organized timetables and efficient management of academic data.  
@@ -360,6 +348,7 @@ This project uses **MySQL** for database management and can be integrated with a
 ***
 https://www.getyourprojectdone.in/projects/Course-and-Faculty-Scheduling-System
 ***
+----
 ## 9.Agriculture E-Commerce System.
 <img width="1880" height="914" alt="Screenshot 2025-08-28 132827" src="https://github.com/user-attachments/assets/9417773a-3417-42de-9dac-d109c0a2a3eb" />
 ## 📖 Introduction
@@ -398,6 +387,7 @@ It manages farmer registrations, product listings, buyer accounts, transactions,
 ***
 https://www.getyourprojectdone.in/projects/Agriculture-E-Commerce-System
 ***
+----
 
 ## 10.Car Rental Management System.
 <img width="1874" height="894" alt="Screenshot 2025-08-28 173952" src="https://github.com/user-attachments/assets/c3841c62-bfb4-4ac3-8bb8-9b2a1cfac138" />
